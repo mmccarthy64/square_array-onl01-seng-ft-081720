@@ -3,5 +3,6 @@ def square_array(array)
   counter = 1
   numbers.each do |number|
     puts number * number
+    counter += 1
   end
 end
