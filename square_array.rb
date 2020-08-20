@@ -3,4 +3,5 @@ def square_array(numbers)
   numbers.each do |dig|
     solution << dig ** 2
 end
+return solution
 end
