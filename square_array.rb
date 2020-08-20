@@ -4,6 +4,6 @@ def square_array(array)
   numbers.each do |number|
     count += 1
     number*number
-    square_array(numbers)
+    puts square_array(numbers)
 end
 end
