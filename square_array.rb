@@ -1,6 +1,6 @@
 def square_array(numbers)
-  new numbers = []
+  solution = []
   numbers.each do |dig|
-    new
+    solution <<
 end
 end
